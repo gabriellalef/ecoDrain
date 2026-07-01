@@ -106,11 +106,9 @@ npm run dev
 - [ ] Múltiplos perfis de usuário (operador, administrador)
 - [ ] Deploy público com CI/CD
 
-## 📄 Licença
 
-Este projeto está sob a licença MIT — veja o arquivo [LICENSE](LICENSE) para mais detalhes.
 
 ## 👤 Autor
 
-Desenvolvido por **Gabriel Alef e Julia Rayra** — [[LinkedIn Alef]](https://www.linkedin.com/in/gabriel-alef/)  (#) 
-[[LinkedIn Rayra]](https://www.linkedin.com/in/juliarayra/) (#)
+Desenvolvido por **Gabriel Alef e Julia Rayra** — [[LinkedIn Alef]](https://www.linkedin.com/in/gabriel-alef/)  
+[[LinkedIn Rayra]](https://www.linkedin.com/in/juliarayra/) 

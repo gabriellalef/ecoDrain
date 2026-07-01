@@ -110,5 +110,4 @@ npm run dev
 
 ## 👤 Autor
 
-Desenvolvido por **Gabriel Alef e Julia Rayra** — [[LinkedIn Alef]](https://www.linkedin.com/in/gabriel-alef/)  
-[[LinkedIn Rayra]](https://www.linkedin.com/in/juliarayra/) 
+Desenvolvido por **Gabriel Alef e Julia Rayra** — [[LinkedIn Alef]](https://www.linkedin.com/in/gabriel-alef/)  [[LinkedIn Rayra]](https://www.linkedin.com/in/juliarayra/) 

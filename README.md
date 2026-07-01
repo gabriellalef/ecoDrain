@@ -112,4 +112,4 @@ Este projeto está sob a licença MIT — veja o arquivo [LICENSE](LICENSE) para
 
 ## 👤 Autor
 
-Desenvolvido por **[seu nome]** — [LinkedIn](#) · [GitHub](#)
+Desenvolvido por **Gabriel Alef e Julia Rayra** — [[LinkedIn]](https://www.linkedin.com/in/gabriel-alef/) (#) · [GitHub](#)
